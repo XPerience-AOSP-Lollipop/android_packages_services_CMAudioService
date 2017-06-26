@@ -35,7 +35,7 @@ import cyanogenmod.platform.Manifest;
 
 public class CMAudioService extends Service {
 
-    private static final String TAG = "CMAudioService";
+    private static final String TAG = "XPeAudioService";
     private static final boolean DEBUG = Log.isLoggable(TAG, Log.DEBUG);
 
     static {
